@@ -76,17 +76,17 @@ footer img{
 }
 
 #map-icon::before{
-    content: url(img/placeholder.png);
+    content: url(/img/placeholder.png);
     padding-right: 5px;
 }
 
 #email-icon::before{
-    content: url(img/email.png);
+    content: url(/img/email.png);
     padding-right: 15px;
 }
 
 #phone-icon::before{
-    content: url(img/phone-call.png);
+    content: url(/img/phone-call.png);
     padding-right: 15px;
 }
 
